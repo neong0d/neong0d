@@ -28,6 +28,8 @@
 </div>
 
 
+
+
 ## 🌐 Connect With Me
 
 <div align="left">
@@ -40,8 +42,10 @@
   </a>
 </div>
 
-
-
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
+
+
+
+---
