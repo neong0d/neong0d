@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Abhigyan Datta</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3100&pause=1000&color=8839EF&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Full-stack+Developer;AI+Tinkerer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2100&pause=100&color=8839EF&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Full-stack+Developer;AI+Tinkerer" alt="Typing SVG" />
 </p>
 </p>
 
